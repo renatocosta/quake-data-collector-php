@@ -1,0 +1,6 @@
+/.idea
+.DS_Store
+src/.DS_Store
+/.vscode
+# don't ignore keep files
+!.keep
